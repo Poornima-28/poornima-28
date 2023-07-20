@@ -10,7 +10,7 @@
 - 🎯 Passionate about transforming complex data into actionable visualizations and reports.
 - 📈 Constantly honing my skills in data modeling, SQL querying, and ETL processes.
 - 💡 Seeking innovative ways to leverage data for strategic business growth.
-- 🛠️ Proficient in Tableau, Power BI, Excel, and SQL. Open to learning new tools and technologies.
+- 🛠️ Proficient in Tableau, Excel, and SQL. Open to learning new tools and technologies.
 - 📚 Check out my data analysis projects below! Let's collaborate and make data work for us! 💻
 - 📫 How to reach me [poornima.venkatesha@outlook.com](poornima.venkatesha@outlook.com)
 
