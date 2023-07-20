@@ -2,6 +2,7 @@
 <h3 align="center">📊 Business Intelligence Analyst | Data Enthusiast | SQL Ninja | Tableau Wizard 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poornima-28&label=Profile%20views&color=0e75b6&style=flat" alt="poornima-28" /> </p>
+<img align= "right" alit ="coder" width = "250" src = https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif>
 
 
 - 📊 Business Intelligence Analyst | Data Enthusiast | SQL Ninja | Tableau Wizard 🚀
